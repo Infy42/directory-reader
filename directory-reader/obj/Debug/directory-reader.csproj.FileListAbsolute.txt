@@ -1,0 +1,7 @@
+C:\Users\misa\source\repos\directory-reader\directory-reader\bin\Debug\directory-reader.exe.config
+C:\Users\misa\source\repos\directory-reader\directory-reader\bin\Debug\directory-reader.exe
+C:\Users\misa\source\repos\directory-reader\directory-reader\bin\Debug\directory-reader.pdb
+C:\Users\misa\source\repos\directory-reader\directory-reader\obj\Debug\directory-reader.csproj.AssemblyReference.cache
+C:\Users\misa\source\repos\directory-reader\directory-reader\obj\Debug\directory-reader.csproj.CoreCompileInputs.cache
+C:\Users\misa\source\repos\directory-reader\directory-reader\obj\Debug\directory-reader.exe
+C:\Users\misa\source\repos\directory-reader\directory-reader\obj\Debug\directory-reader.pdb
